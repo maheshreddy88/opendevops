@@ -1,0 +1,10 @@
+site_name: OpenDevOps
+nav:
+  - Home: index.md
+  - Linux: linux/linux.md
+  - Ansible: ansible/ansible.md
+  - Docker: docker/docker.md
+  - Networking: networking/networking.md
+  - Kubernetes: kubernetes/kubernetes.md
+# theme:
+#   name: material  # Optional: Use the Material theme for better visuals
