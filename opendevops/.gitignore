@@ -1,0 +1,33 @@
+# Ignore the build directory
+/site/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+.venv/
+venv/
+env/
+env.bak/
+
+# Ignore Markdown backup files
+*~
+*.bak
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore other files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore MkDocs specific files
+*.gz  # Optional: Ignore any gzipped files, if necessary
