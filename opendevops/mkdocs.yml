@@ -8,3 +8,9 @@ nav:
   - Kubernetes: kubernetes/kubernetes.md
 # theme:
 #   name: material  # Optional: Use the Material theme for better visuals
+
+extra_javascript:
+  - assets/js/main.js
+
+extra_css:
+  - assets/css/styles.css
